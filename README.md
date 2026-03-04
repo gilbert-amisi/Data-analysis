@@ -4,7 +4,7 @@ This repository showcases my expertise in transforming raw data into actionable 
 
 ---
 
-## 🔬 R & Python Statistical Analysis (`scripts`)
+## 🔬 R & Python Statistical Analysis (`/scripts`)
 
 My R and Python scripts focus on high-quality data processing and advanced statistics:
 
